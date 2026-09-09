@@ -1,0 +1,32 @@
+h1{
+    color: orangered;
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(from rgb(235, 22, 235) r g b);
+}
+h2{
+    color: blue;
+    text-align: center;
+}
+body{
+   background-image: url("https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmF6MzFqMXB6dzNkcTJkeWVxNmc3bnpsN24xejZhbGVkZzB6amk0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aGwqOk9Rp75UFwKlOq/giphy.gif");
+   background-size: auto;
+}
+img{
+    width: 200px;
+}
+footer{
+    color: rgb(255, 0, 0);
+    background-color: black;
+    text-align: center;
+}
+.imagem{
+    text-align: center;
+    background-color: chocolate;
+    width: 400px;
+    margin: auto;
+    border-style: double;
+    border-radius: 50px;
+    border-color: brown;
+
+}
